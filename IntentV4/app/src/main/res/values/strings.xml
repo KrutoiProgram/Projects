@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentVariant4</string>
+    <string name="Log">Войти</string>
+    <string name="Man">М</string>
+    <string name="Woman">Ж</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилия</string>
+    <string name="Patronymic">Отчество</string>
+    <string name="Number">Номер</string>
+    <string name="Email">Почта</string>
+</resources>
